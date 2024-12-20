@@ -48,9 +48,7 @@
   <a href="https://www.instagram.com/mo12kw/profilecard/?igsh=dWszZ21lbHRya2M=6" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
-  <a href="mohamedm.kamel121@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
-  </a>
+ 
 </div>
 
 ###
